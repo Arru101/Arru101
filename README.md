@@ -2,7 +2,7 @@
 - 👀 HTML,JAVASCRIPT & CSS
 - 🌱 I’m a B.TECH Student
 - 💞️ I love Technology
-- 📫 Instagram ID : arru_khan_611
+- 📫 Instagram ID : @arru_khan_611
 
 <!---
 Arru101/Arru101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
