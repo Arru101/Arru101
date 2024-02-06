@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arru101
 - 👀 HTML,JAVASCRIPT & CSS
 - 🌱 I’m a B.TECH Student
-- 💞️ I love Technology
+- 🖥️ I love Technology
 - 📫 Instagram ID : @arru_khan_611
 
 <!---
