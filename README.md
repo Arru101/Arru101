@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arru101
-- 👀 HTML,JAVASCRIPT & CSS
+- 👀 HTML,CSS,JAVASCRIPT, & JAVA
 - 🌱 BE Student
 - 🖥️ I love Technology
 - 📫 Instagram ID : @arru_khan_611
